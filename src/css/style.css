@@ -1,0 +1,85 @@
+.icon-location{
+    color: #FFB30E;
+}
+
+.btn-delivery{
+        color: #F17228;
+        background: rgba(241, 114, 40, 0.1);
+        border-radius: 8px;
+}
+
+.third-part{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+}
+
+.how{
+    color: 
+    #F17228;
+
+}
+
+.background{
+    
+    background-color: #F17228;
+}
+
+.star{
+    color: #FFB30E;
+}
+
+.btn-delivery-2{
+    background: rgba(121, 185, 60, 0.2);
+border-radius: 16px;
+color: #79B93C;
+}
+
+.view{
+    background: linear-gradient(97.86deg, #FFBA26 -8.95%, #FF9A0E 109.24%);
+/* Shadow/1 */
+
+box-shadow: 0px 5px 10px rgba(255, 174, 0, 0.26), 0px 20px 40px rgba(255, 174, 0, 0.29);
+}
+
+.mobile{
+    background: #FEEFD0;
+}
+
+.btn-8{
+    background: linear-gradient(92.84deg, #FFB800 -47.72%, #FF8A00 136.81%);
+    /* Button shadow ! */
+    
+    box-shadow: 0px 5px 8px rgba(222, 151, 0, 0.24), 0px 14px 32px rgba(255, 178, 14, 0.29);
+    border-radius: 8px;
+}
+
+.crispy{
+    color:  #FFB30E;
+}
+
+.wer{
+    filter: drop-shadow(0px 14px 15px rgba(124, 124, 124, 0.06)) drop-shadow(0px 27px 82px rgba(124, 124, 124, 0.28));
+border-radius: 16px;
+}
+
+.footer{
+    background: #212121;
+}
+
+li{
+    list-style: none;
+    cursor: pointer;
+}
+
+.btn-pickup{
+    color: #757575;
+}
+
+.last{
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+    .remove {
+        display: none;
+    }
+  }
