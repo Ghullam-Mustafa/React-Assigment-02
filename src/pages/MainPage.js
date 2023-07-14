@@ -1,9 +1,14 @@
 
-import React from 'react'
-import TopBar from '../components/topBar/TopBar'
 
-export default function MainPage(props) {
+import React from 'react';
+import TopBar from '../components/topBar/TopBar';
+import Section01 from '../components/firstSection/FirstSection'
+export default function MainPage() {
   return (
-    <TopBar/>
-  )
+    <>
+      <TopBar/>
+      <Section01/>
+    </>
+  );
 }
+
