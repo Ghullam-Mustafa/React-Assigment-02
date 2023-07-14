@@ -7,6 +7,7 @@ import SecondSection from '../components/secondSection/SecondSection';
 import PartThree from '../components/partThree/PartThree';
 import PartFour from '../components/partFour/PartFour';
 import PartFive from '../components/partFive/PartFive';
+import PartSix from '../components/partSix/PartSix'
 export default function MainPage(props) {
   return (
     <>
@@ -16,6 +17,7 @@ export default function MainPage(props) {
       <PartThree/>
       <PartFour/>
       <PartFive/>
+      <PartSix/>
     </>
   );
 }
