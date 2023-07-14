@@ -29,9 +29,9 @@ export default function Footer() {
                             <div className="row"></div>
                             <h6 className="text-secondary">Follow Us</h6>
                             <h6 className="py-3">
-                                <i className="bi bi-instagram li text-secondary"></i>
-                                <i className="bi bi-facebook li text-secondary"></i>
-                                <i className="bi bi-twitter li text-secondary"></i>
+                                <i className="bi bi-instagram li p-3 text-secondary"></i>
+                                <i className="bi bi-facebook li  p-3 text-secondary"></i>
+                                <i className="bi bi-twitter li  p-3 text-secondary"></i>
                             </h6>
                             <h6 className="text-white">Receive exclusive offers in your mailbox</h6>
                             <div className=" d-flex">
