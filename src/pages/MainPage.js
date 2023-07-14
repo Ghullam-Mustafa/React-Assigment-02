@@ -9,7 +9,8 @@ import PartFour from '../components/partFour/PartFour';
 import PartFive from '../components/partFive/PartFive';
 import PartSix from '../components/partSix/PartSix';
 import PartSeven from '../components/partSeven/PartSeven';
-import PartEight from '../components/partEight/PartEight'
+import PartEight from '../components/partEight/PartEight';
+import PartNine from '../components/partnine/PartNine'
 
 export default function MainPage(props) {
   return (
@@ -23,6 +24,7 @@ export default function MainPage(props) {
       <PartSix/>
       <PartSeven/>
       <PartEight/>
+      <PartNine/>
     </>
   );
 }
