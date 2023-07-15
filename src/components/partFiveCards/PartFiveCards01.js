@@ -1,4 +1,5 @@
 import React from 'react'
+import Button from '../button/Button'
 
 export default function PartFiveCards(props) {
     return (
@@ -13,7 +14,8 @@ export default function PartFiveCards(props) {
                             <h6 className="star"><i className="bi bi-star-fill"></i>{props.ratting}</h6>
                         </div>
                     </div>
-                    <button className="btn btn-lg btn-delivery mt-2">Opens tomorrow</button>
+                    {/* <button className="btn btn-lg btn-delivery mt-2">Opens tomorrow</button> */}
+                    <Button color='btn btn-lg btn-delivery mt-2'  title='Opens tomorrow'/>
                 </div>
             </div>
         </div>
